@@ -1,1 +1,26 @@
-<a href="Projektantrag.adoc">mein Projektantrag</a>
+= Projektantrag
+:author: Katharina Einzenberger
+:klasse: 3AHIF
+:email: k.einzenberger@students.htl-leonding.ac.at
+:lang: de
+:stylesheet: style.css
+
+== Aktivitätenplaner
+
+=== Projektbeschreibung
+
+Wer kennt es nicht: Man ist im Urlaub und hat ein super tolles Rahmeprogramm geplant.Doch dann ändert sich auf einen Schlag alles, und man sitzt im Hotelzimmer herum und langweilt sich. +
+
+Dagegen soll mein Projekt Aktivitätenplaner vorgehen.
+Es bekommt aktuelle Wetterdaten von Wetterstation in der Umbebung und schlägt aufgrund dieser Vorhersagen, sowie der Abfrage des Standorts, eine Auswhal an Unternehmungen für die angegebene Urlaubszeit vor.
+
+=== Projektnutzen
+
+Mit dieser Applikaiton müssen nie wieder Urlaube umsonst gewesen sein, und jeder kann seinen Urlaub genießen, auch wenn es nicht der Vorstellung entspricht, die er vor Reiseantritt hat.
+Man wird sich nicht mehr fühlen, als hätte man unnötig geld ausgegeben, und bräuchte noch einmal Urlaub, um den versäumten nachzuholen.
+
+=== Konsequenzen bei Nichtdurchführung
+
+Ohne die Durchführung dieses Projekts, muss jeder der dieses Erlebnis hat, in seinem Urlaub noch einmal von vorne beginnen, Aktivitäten zu planen.
+Dies kostet Zeit und Energie, was sich nicht postiv auf die Erholung des Geistes auswirkt, wozu der Urlaub eigentlich gedacht wäre.
+
