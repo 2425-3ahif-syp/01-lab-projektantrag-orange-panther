@@ -9,15 +9,15 @@
 
 === Projektbeschreibung
 
-Wer kennt es nicht: Man ist im Urlaub und hat ein super tolles Rahmeprogramm geplant.Doch dann ändert sich auf einen Schlag alles, und man sitzt im Hotelzimmer herum und langweilt sich. +
+Wer kennt es nicht: Man ist im Urlaub und hat ein super tolles Rahmenprogramm geplant. Doch dann ändert sich auf einen Schlag das Wetter, und man sitzt im Hotelzimmer herum und langweilt sich. +
 
 Dagegen soll mein Projekt Aktivitätenplaner vorgehen.
-Es bekommt aktuelle Wetterdaten von Wetterstation in der Umbebung und schlägt aufgrund dieser Vorhersagen, sowie der Abfrage des Standorts, eine Auswhal an Unternehmungen für die angegebene Urlaubszeit vor.
+Er bekommt aktuelle Wetterdaten von Wetterstation in der Umbebung und schlägt aufgrund dieser Vorhersagen, sowie der Abfrage des Standorts, eine Auswahl an Unternehmungen für die angegebene Urlaubszeit vor.
 
 === Projektnutzen
 
 Mit dieser Applikaiton müssen nie wieder Urlaube umsonst gewesen sein, und jeder kann seinen Urlaub genießen, auch wenn es nicht der Vorstellung entspricht, die er vor Reiseantritt hat.
-Man wird sich nicht mehr fühlen, als hätte man unnötig geld ausgegeben, und bräuchte noch einmal Urlaub, um den versäumten nachzuholen.
+Man wird sich nicht mehr fühlen, als hätte man unnötig Geld ausgegeben, und bräuchte noch einmal Urlaub, um den versäumten nachzuholen.
 
 === Konsequenzen bei Nichtdurchführung
 
